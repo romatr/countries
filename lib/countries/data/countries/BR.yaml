@@ -25,6 +25,11 @@ BR:
   world_region: AMER
   un_locode: BR
   nationality: Brazilian
+  nationalities:
+    at: Brasilianisch
+    de: Brasilianisch
+    en: Brazilian
+    nl: Braziliaans
   postal_code: true
   unofficial_names:
   - Brazil

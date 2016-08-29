@@ -32,6 +32,11 @@ DE:
   world_region: EMEA
   un_locode: DE
   nationality: German
+  nationalities:
+    at: Deutsch
+    de: Deutsch
+    en: German
+    nl: Duits
   eu_member: true
   eea_member: true
   vat_rates:

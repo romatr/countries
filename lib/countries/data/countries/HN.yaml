@@ -20,6 +20,11 @@ HN:
   world_region: AMER
   un_locode: HN
   nationality: Honduran
+  nationalities:
+    at: Honduranisch
+    de: Honduranisch
+    en: Honduran
+    nl: Hondurees
   postal_code: true
   unofficial_names:
   - Honduras

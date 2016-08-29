@@ -19,6 +19,10 @@ AM:
   world_region: EMEA
   un_locode: AM
   nationality: Armenian
+  nationalities:
+    at: Armenisch
+    de: Armenisch
+    en: Armenian
   postal_code: true
   unofficial_names:
   - Armenia

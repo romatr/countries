@@ -20,6 +20,11 @@ PE:
   world_region: AMER
   un_locode: PE
   nationality: Peruvian
+  nationalities:
+    at: Peruanisch
+    de: Peruanisch
+    en: Peruvian
+    nl: Peruaans
   postal_code: true
   unofficial_names:
   - Peru

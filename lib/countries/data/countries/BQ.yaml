@@ -17,6 +17,11 @@ BQ:
   world_region: APAC
   un_locode: BQ
   nationality: Dutch
+  nationalities:
+    at: Niederländisch
+    de: Niederländisch
+    en: Dutch
+    nl: Nederlands
   postal_code: true
   unofficial_names:
   - Bonaire, Sint Eustatius and Saba

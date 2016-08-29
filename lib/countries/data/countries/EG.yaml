@@ -24,6 +24,11 @@ EG:
   world_region: EMEA
   un_locode: EG
   nationality: Egyptian
+  nationalities:
+    at: Ägyptisch
+    de: Ägyptisch
+    en: Egyptian
+    nl: Egyptisch
   postal_code: true
   unofficial_names:
   - Egypt

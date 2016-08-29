@@ -19,6 +19,11 @@ GM:
   world_region: EMEA
   un_locode: GM
   nationality: Gambian
+  nationalities:
+    at: Gambisch
+    de: Gambisch
+    en: Gambian
+    nl: Gambiaans
   postal_code: false
   unofficial_names:
   - Gambia

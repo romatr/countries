@@ -17,6 +17,10 @@ AQ:
   subregion: ''
   un_locode: AQ
   nationality: ''
+  nationalities:
+    at: ""
+    de: ""
+    en: ""
   postal_code: true
   unofficial_names:
   - Antarctica

@@ -20,6 +20,11 @@ SO:
   world_region: EMEA
   un_locode: SO
   nationality: Somali
+  nationalities:
+    at: Somalisch
+    de: Somalisch
+    en: Somali
+    nl: Somalisch
   postal_code: false
   unofficial_names:
   - Somalia

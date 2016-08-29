@@ -25,6 +25,11 @@ MK:
   world_region: EMEA
   un_locode: MK
   nationality: Macedonian
+  nationalities:
+    at: Mazedonisch
+    de: Mazedonisch
+    en: Macedonian
+    nl: Macedonisch
   postal_code: true
   unofficial_names:
   - Macedonia

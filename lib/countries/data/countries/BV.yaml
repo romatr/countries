@@ -16,6 +16,10 @@ BV:
   subregion: ''
   un_locode: 
   nationality: ''
+  nationalities:
+    at: ""
+    de: ""
+    en: ""
   postal_code: true
   world_region: APAC
   unofficial_names:

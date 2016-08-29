@@ -19,6 +19,10 @@ CD:
   world_region: EMEA
   un_locode: CD
   nationality: Congolese
+  nationalities:
+    at: Kongolese
+    de: Kongolese
+    en: Congolese
   postal_code: false
   unofficial_names:
   - Congo (Dem. Rep.)

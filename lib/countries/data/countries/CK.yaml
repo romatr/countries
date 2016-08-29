@@ -19,6 +19,10 @@ CK:
   world_region: APAC
   un_locode: CK
   nationality: Cook Islander
+  nationalities:
+    at: Cook-Insulaner
+    de: Cook-Insulaner
+    en: Cook Islander
   postal_code: false
   unofficial_names:
   - Cook Islands

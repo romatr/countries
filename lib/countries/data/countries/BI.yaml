@@ -19,6 +19,10 @@ BI:
   world_region: EMEA
   un_locode: BI
   nationality: Burundian
+  nationalities:
+    at: Burundisch
+    de: Burundisch
+    en: Burundian
   postal_code: false
   unofficial_names:
   - Burundi

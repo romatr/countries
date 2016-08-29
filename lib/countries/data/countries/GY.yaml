@@ -20,6 +20,10 @@ GY:
   world_region: AMER
   un_locode: GY
   nationality: Guyanese
+  nationalities:
+    at: Guyanesisch
+    de: Guyanesisch
+    en: Guyanese
   postal_code: false
   unofficial_names:
   - Guyana

@@ -19,6 +19,10 @@ GP:
   world_region: AMER
   un_locode: GP
   nationality: Guadeloupian
+  nationalities:
+    at: Guadeloupisch
+    de: Guadeloupisch
+    en: Guadeloupian
   postal_code: true
   unofficial_names:
   - Guadeloupe

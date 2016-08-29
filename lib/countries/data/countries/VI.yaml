@@ -19,6 +19,10 @@ VI:
   world_region: AMER
   un_locode: VI
   nationality: Virgin Islander
+  nationalities:
+    at: Jungfernsinseln
+    de: Jungfernsinseln
+    en: Virgin Islander
   postal_code: true
   unofficial_names:
   - Virgin Islands of the United States

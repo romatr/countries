@@ -19,6 +19,10 @@ BD:
   world_region: APAC
   un_locode: BD
   nationality: Bangladeshi
+  nationalities:
+    at: Bangladeschisch
+    de: Bangladeschisch
+    en: Bangladeshi
   postal_code: true
   unofficial_names:
   - Bangladesh

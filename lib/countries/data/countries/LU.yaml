@@ -24,6 +24,11 @@ LU:
   world_region: EMEA
   un_locode: LU
   nationality: Luxembourger
+  nationalities:
+    at: Luxemburgisch
+    de: Luxemburgisch
+    en: Luxembourger
+    nl: Luxemburgs
   eu_member: true
   eea_member: true
   vat_rates:

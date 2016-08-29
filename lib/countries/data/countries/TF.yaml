@@ -16,6 +16,10 @@ TF:
   subregion: ''
   un_locode: 
   nationality: French
+  nationalities:
+    at: Französich
+    de: Französich
+    en: French
   postal_code: false
   world_region: APAC
   unofficial_names:

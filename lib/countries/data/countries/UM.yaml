@@ -17,6 +17,10 @@ UM:
   world_region: AMER
   un_locode: UM
   nationality: American
+  nationalities:
+    at: Amerikanisch
+    de: Amerikanisch
+    en: American
   postal_code: true
   unofficial_names:
   - United States Minor Outlying Islands

@@ -20,6 +20,11 @@ CO:
   world_region: AMER
   un_locode: CO
   nationality: Colombian
+  nationalities:
+    at: Kolumbianer
+    de: Kolumbianer
+    en: Colombian
+    nl: Colombiaans
   postal_code: true
   unofficial_names:
   - Colombia

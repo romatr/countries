@@ -25,6 +25,11 @@ ES:
   world_region: EMEA
   un_locode: ES
   nationality: Spanish
+  nationalities:
+    at: Spanisch
+    de: Spanisch
+    en: Spanish
+    nl: Spaans
   eu_member: true
   eea_member: true
   vat_rates:

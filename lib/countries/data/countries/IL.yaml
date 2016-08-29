@@ -26,6 +26,11 @@ IL:
   world_region: EMEA
   un_locode: IL
   nationality: Israeli
+  nationalities:
+    at: Israelisch
+    de: Israelisch
+    en: Israeli
+    nl: Israelisch
   postal_code: true
   unofficial_names:
   - Israel

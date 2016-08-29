@@ -75,6 +75,10 @@ module ISO3166
       data['translations'][locale.to_s.downcase]
     end
 
+    def nationality(locale = 'en')
+      Hash(data['nationalities']).fetch(locale.to_s.downcase, data['nationality'])
+    end
+
     # TODO: Looping through locale langs could be be very slow across multiple countries
     def local_names
       ISO3166.configuration.locales = (ISO3166.configuration.locales + languages.map(&:to_sym)).uniq

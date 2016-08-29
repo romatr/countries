@@ -19,6 +19,11 @@ NE:
   world_region: EMEA
   un_locode: NE
   nationality: Nigerian
+  nationalities:
+    at: Nigerisch
+    de: Nigerisch
+    en: Nigerian
+    nl: Nigeriaans
   postal_code: true
   unofficial_names:
   - Niger

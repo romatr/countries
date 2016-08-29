@@ -17,6 +17,10 @@ EH:
   world_region: EMEA
   un_locode: EH
   nationality: Sahrawi
+  nationalities:
+    at: Saharisch
+    de: Saharisch
+    en: Sahrawi
   postal_code: true
   unofficial_names:
   - Western Sahara

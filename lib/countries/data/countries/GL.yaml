@@ -24,6 +24,11 @@ GL:
   world_region: EMEA
   un_locode: GL
   nationality: Greenlandic
+  nationalities:
+    at: Grönländisch
+    de: Grönländisch
+    en: Greenlandic
+    nl: Groenlands
   postal_code: true
   unofficial_names:
   - Greenland

@@ -19,6 +19,10 @@ KY:
   world_region: AMER
   un_locode: KY
   nationality: Caymanian
+  nationalities:
+    at: Kaimanisch
+    de: Kaimanisch
+    en: Caymanian
   postal_code: true
   unofficial_names:
   - Cayman Islands

@@ -19,6 +19,11 @@ CR:
   world_region: AMER
   un_locode: CR
   nationality: Costa Rican
+  nationalities:
+    at: Costa Ricaner
+    de: Costa Ricaner
+    en: Costa Rican
+    nl: Costa Ricaans
   postal_code: true
   unofficial_names:
   - Costa Rica

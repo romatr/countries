@@ -18,6 +18,11 @@ GF:
   subregion: South America
   world_region: AMER
   un_locode: GF
+  nationality: French Guianese
+  nationalities:
+    at: Französisch-Guyanaisch
+    de: Französisch-Guyanaisch
+    en: French Guianese
   postal_code: true
   unofficial_names:
   - French Guiana

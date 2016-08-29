@@ -21,6 +21,10 @@ GA:
   world_region: EMEA
   un_locode: GA
   nationality: Gabonese
+  nationalities:
+    at: Gabunesiscch
+    de: Gabunesiscch
+    en: Gabonese
   postal_code: true
   unofficial_names:
   - Gabon

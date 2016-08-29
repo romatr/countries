@@ -19,6 +19,10 @@ GU:
   world_region: APAC
   un_locode: GU
   nationality: Guamanian
+  nationalities:
+    at: Guamanisch
+    de: Guamanisch
+    en: Guamanian
   postal_code: true
   unofficial_names:
   - Guam

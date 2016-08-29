@@ -19,6 +19,10 @@ AO:
   world_region: EMEA
   un_locode: AO
   nationality: Angolan
+  nationalities:
+    at: Angolanisch
+    de: Angolanisch
+    en: Angolan
   postal_code: false
   unofficial_names:
   - Angola

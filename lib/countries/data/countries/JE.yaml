@@ -17,6 +17,10 @@ JE:
   world_region: EMEA
   un_locode: 
   nationality: Channel Islander
+  nationalities:
+    at: Kanal-Insulaner
+    de: Kanal-Insulaner
+    en: Channel Islander
   postal_code: true
   unofficial_names:
   - Jersey

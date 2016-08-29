@@ -24,6 +24,11 @@ SI:
   world_region: EMEA
   un_locode: SI
   nationality: Slovene
+  nationalities:
+    at: Slowenisch
+    de: Slowenisch
+    en: Slovene
+    nl: Sloveens
   eu_member: true
   eea_member: true
   vat_rates:

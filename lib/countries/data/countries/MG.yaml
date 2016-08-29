@@ -19,6 +19,10 @@ MG:
   world_region: EMEA
   un_locode: MG
   nationality: Malagasy
+  nationalities:
+    at: Madagaskarisch
+    de: Madagaskarisch
+    en: Malagasy
   postal_code: true
   unofficial_names:
   - Madagascar

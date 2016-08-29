@@ -19,6 +19,11 @@ TV:
   world_region: APAC
   un_locode: TV
   nationality: Tuvaluan
+  nationalities:
+    at: Tuvaluanisch
+    de: Tuvaluanisch
+    en: Tuvaluan
+    nl: Tuvaluaans
   postal_code: false
   unofficial_names:
   - Tuvalu

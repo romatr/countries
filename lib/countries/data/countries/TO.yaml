@@ -21,6 +21,11 @@ TO:
   world_region: APAC
   un_locode: TO
   nationality: Tongan
+  nationalities:
+    at: Tonganisch
+    de: Tonganisch
+    en: Tongan
+    nl: Tongaans
   postal_code: false
   unofficial_names:
   - Tonga

@@ -19,6 +19,10 @@ GT:
   world_region: AMER
   un_locode: GT
   nationality: Guatemalan
+  nationalities:
+    at: Guatemalische
+    de: Guatemalische
+    en: Guatemalan
   postal_code: true
   unofficial_names:
   - Guatemala

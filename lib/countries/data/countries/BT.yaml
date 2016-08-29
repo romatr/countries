@@ -20,6 +20,10 @@ BT:
   world_region: APAC
   un_locode: BT
   nationality: Bhutanese
+  nationalities:
+    at: Bhutanisch
+    de: Bhutanisch
+    en: Bhutanese
   postal_code: true
   unofficial_names:
   - Bhutan

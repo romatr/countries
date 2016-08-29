@@ -20,6 +20,10 @@ AF:
   world_region: APAC
   un_locode: AF
   nationality: Afghan
+  nationalities:
+    at: Afghanisch
+    de: Afghanisch
+    en: Afghan
   postal_code: true
   unofficial_names:
   - Afghanistan

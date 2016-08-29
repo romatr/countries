@@ -26,6 +26,11 @@ KR:
   world_region: APAC
   un_locode: KR
   nationality: South Korean
+  nationalities:
+    at: Südkoreanisch
+    de: Südkoreanisch
+    en: South Korean
+    nl: Koreaans (Zuid)
   postal_code: true
   unofficial_names:
   - South Korea

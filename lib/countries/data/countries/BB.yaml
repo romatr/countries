@@ -19,6 +19,10 @@ BB:
   world_region: AMER
   un_locode: BB
   nationality: Barbadian
+  nationalities:
+    at: Barbadisch
+    de: Barbadisch
+    en: Barbadian
   postal_code: true
   unofficial_names:
   - Barbade

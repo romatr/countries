@@ -24,6 +24,10 @@ QA:
   world_region: EMEA
   un_locode: QA
   nationality: Qatari
+  nationalities:
+    at: Katarisch
+    de: Katarisch
+    en: Qatari
   postal_code: false
   unofficial_names:
   - Qatar

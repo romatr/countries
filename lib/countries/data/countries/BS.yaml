@@ -19,6 +19,10 @@ BS:
   world_region: AMER
   un_locode: BS
   nationality: Bahamian
+  nationalities:
+    at: Bahamisch
+    de: Bahamisch
+    en: Bahamian
   postal_code: false
   unofficial_names:
   - Bahamas

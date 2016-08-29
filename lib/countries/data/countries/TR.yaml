@@ -24,6 +24,11 @@ TR:
   world_region: EMEA
   un_locode: TR
   nationality: Turkish
+  nationalities:
+    at: Türkisch
+    de: Türkisch
+    en: Turkish
+    nl: Turks
   postal_code: true
   unofficial_names:
   - Turkey

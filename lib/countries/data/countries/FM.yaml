@@ -19,6 +19,10 @@ FM:
   world_region: APAC
   un_locode: FM
   nationality: Micronesian
+  nationalities:
+    at: Mikronesisch
+    de: Mikronesisch
+    en: Micronesian
   postal_code: true
   unofficial_names:
   - Micronesia

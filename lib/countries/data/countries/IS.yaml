@@ -26,6 +26,11 @@ IS:
   world_region: EMEA
   un_locode: IS
   nationality: Icelander
+  nationalities:
+    at: Isländisch
+    de: Isländisch
+    en: Icelander
+    nl: Ijslands
   eea_member: true
   postal_code: true
   unofficial_names:

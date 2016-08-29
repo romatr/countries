@@ -24,6 +24,11 @@ PT:
   world_region: EMEA
   un_locode: PT
   nationality: Portuguese
+  nationalities:
+    at: Portugiese
+    de: Portugiese
+    en: Portuguese
+    nl: Portugees
   eu_member: true
   eea_member: true
   vat_rates:

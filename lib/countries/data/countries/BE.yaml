@@ -25,6 +25,11 @@ BE:
   world_region: EMEA
   un_locode: BE
   nationality: Belgian
+  nationalities:
+    at: Belgisch
+    de: Belgisch
+    en: Belgian
+    nl: Belgisch
   eu_member: true
   eea_member: true
   vat_rates:

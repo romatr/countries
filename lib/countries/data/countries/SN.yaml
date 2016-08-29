@@ -19,6 +19,11 @@ SN:
   world_region: EMEA
   un_locode: SN
   nationality: Senegalese
+  nationalities:
+    at: Senegalesisch
+    de: Senegalesisch
+    en: Senegalese
+    nl: Senegalees
   postal_code: true
   unofficial_names:
   - Senegal

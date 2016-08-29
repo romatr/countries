@@ -21,6 +21,10 @@ LR:
   world_region: EMEA
   un_locode: LR
   nationality: Liberian
+  nationalities:
+    at: Liberianisch
+    de: Liberianisch
+    en: Liberian
   postal_code: true
   unofficial_names:
   - Liberia

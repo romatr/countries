@@ -19,6 +19,10 @@ TM:
   world_region: EMEA
   un_locode: TM
   nationality: Turkmen
+  nationalities:
+    at: Turkmenisch
+    de: Turkmenisch
+    en: Turkmen
   postal_code: true
   unofficial_names:
   - Turkmenistan

@@ -19,6 +19,11 @@ ZM:
   world_region: EMEA
   un_locode: ZM
   nationality: Zambian
+  nationalities:
+    at: Sambisch
+    de: Sambisch
+    en: Zambian
+    nl: Zambiaans
   postal_code: true
   unofficial_names:
   - Zambia

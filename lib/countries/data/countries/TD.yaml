@@ -19,6 +19,10 @@ TD:
   world_region: EMEA
   un_locode: TD
   nationality: Chadian
+  nationalities:
+    at: Tschadisch
+    de: Tschadisch
+    en: Chadian
   postal_code: true
   unofficial_names:
   - Chad

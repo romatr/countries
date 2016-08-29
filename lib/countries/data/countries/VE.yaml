@@ -19,6 +19,11 @@ VE:
   world_region: AMER
   un_locode: VE
   nationality: Venezuelan
+  nationalities:
+    at: Venezuelanisch
+    de: Venezuelanisch
+    en: Venezuelan
+    nl: Venezolaans
   postal_code: true
   unofficial_names:
   - Venezuela

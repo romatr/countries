@@ -20,6 +20,10 @@ MM:
   world_region: APAC
   un_locode: MM
   nationality: Myanmarian
+  nationalities:
+    at: Myanmarisch
+    de: Myanmarisch
+    en: Myanmarian
   postal_code: true
   unofficial_names:
   - Myanmar

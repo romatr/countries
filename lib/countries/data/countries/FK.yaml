@@ -19,6 +19,10 @@ FK:
   world_region: AMER
   un_locode: FK
   nationality: Falkland Islander
+  nationalities:
+    at: Falkländisch
+    de: Falkländisch
+    en: Falkland Islander
   postal_code: true
   unofficial_names:
   - Falkland Islands

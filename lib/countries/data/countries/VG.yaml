@@ -19,6 +19,10 @@ VG:
   world_region: AMER
   un_locode: VG
   nationality: Virgin Islander
+  nationalities:
+    at: Jungferninseln
+    de: Jungferninseln
+    en: Virgin Islander
   postal_code: true
   unofficial_names:
   - British Virgin Islands

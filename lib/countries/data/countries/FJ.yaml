@@ -19,6 +19,10 @@ FJ:
   world_region: APAC
   un_locode: FJ
   nationality: Fijian
+  nationalities:
+    at: Fidschianisch
+    de: Fidschianisch
+    en: Fijian
   postal_code: false
   unofficial_names:
   - Fiji

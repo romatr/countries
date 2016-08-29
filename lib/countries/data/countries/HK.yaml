@@ -24,6 +24,11 @@ HK:
   world_region: APAC
   un_locode: HK
   nationality: Chinese
+  nationalities:
+    at: Chinesisch
+    de: Chinesisch
+    en: Chinese
+    nl: Hongkonger
   postal_code: false
   unofficial_names:
   - Hong Kong

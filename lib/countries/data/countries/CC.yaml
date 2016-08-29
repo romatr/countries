@@ -19,6 +19,10 @@ CC:
   world_region: APAC
   un_locode: CC
   nationality: Cocos Islander
+  nationalities:
+    at: Kokos Insulaner
+    de: Kokos Insulaner
+    en: Cocos Islander
   postal_code: true
   unofficial_names:
   - Cocos (Keeling) Islands

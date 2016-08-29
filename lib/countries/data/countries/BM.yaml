@@ -19,6 +19,10 @@ BM:
   world_region: AMER
   un_locode: BM
   nationality: Bermudian
+  nationalities:
+    at: Bermudisch
+    de: Bermudisch
+    en: Bermudian
   postal_code: true
   unofficial_names:
   - Bermuda

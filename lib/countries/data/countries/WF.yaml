@@ -19,6 +19,10 @@ WF:
   world_region: APAC
   un_locode: WF
   nationality: Wallis and Futuna Islander
+  nationalities:
+    at: Wallis und Futuna
+    de: Wallis und Futuna
+    en: Wallis and Futuna Islander
   postal_code: true
   unofficial_names:
   - Wallis and Futuna

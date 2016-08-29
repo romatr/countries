@@ -40,6 +40,12 @@ module ISO3166
       I18nData.countries(locale.upcase)
     end
 
+    def nationalities(locale = 'en')
+      ISO3166::Country.all.each_with_object({}) do |c, res|
+        res[c.alpha2] = c.nationality(locale)
+      end
+    end
+
     def search(query)
       country = new(query.to_s.upcase)
       country && country.valid? ? country : nil

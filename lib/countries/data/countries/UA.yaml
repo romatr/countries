@@ -26,6 +26,11 @@ UA:
   world_region: EMEA
   un_locode: UA
   nationality: Ukrainian
+  nationalities:
+    at: Ukrainische
+    de: Ukrainische
+    en: Ukrainian
+    nl: Oekraïens
   postal_code: true
   unofficial_names:
   - Ukraine

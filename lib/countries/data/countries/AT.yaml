@@ -32,6 +32,11 @@ AT:
   world_region: EMEA
   un_locode: AT
   nationality: Austrian
+  nationalities:
+    at: Österreichisch
+    de: Österreichisch
+    en: Austrian
+    nl: Oostenrijks
   eu_member: true
   eea_member: true
   vat_rates:

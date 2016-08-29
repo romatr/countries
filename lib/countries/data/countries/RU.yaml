@@ -24,6 +24,11 @@ RU:
   world_region: EMEA
   un_locode: RU
   nationality: Russian
+  nationalities:
+    at: Russisch
+    de: Russisch
+    en: Russian
+    nl: Russisch
   postal_code: true
   unofficial_names:
   - Russia

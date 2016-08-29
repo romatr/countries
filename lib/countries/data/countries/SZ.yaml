@@ -19,6 +19,10 @@ SZ:
   world_region: EMEA
   un_locode: SZ
   nationality: Swazi
+  nationalities:
+    at: Swasi
+    de: Swasi
+    en: Swazi
   postal_code: true
   unofficial_names:
   - Swaziland

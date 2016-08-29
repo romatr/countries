@@ -19,6 +19,10 @@ BO:
   world_region: AMER
   un_locode: BO
   nationality: Bolivian
+  nationalities:
+    at: Bolivianisch
+    de: Bolivianisch
+    en: Bolivian
   postal_code: false
   unofficial_names:
   - Bolivia

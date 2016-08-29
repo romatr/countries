@@ -25,6 +25,11 @@ TW:
   world_region: APAC
   un_locode: TW
   nationality: Taiwanese
+  nationalities:
+    at: Taiwanesisch
+    de: Taiwanesisch
+    en: Taiwanese
+    nl: Taiwanees
   postal_code: true
   unofficial_names:
   - Taiwan

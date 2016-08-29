@@ -19,6 +19,11 @@ DZ:
   world_region: EMEA
   un_locode: DZ
   nationality: Algerian
+  nationalities:
+    at: Algerisch
+    de: Algerisch
+    en: Algerian
+    nl: Algerijns
   postal_code: true
   unofficial_names:
   - Algeria

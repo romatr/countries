@@ -19,6 +19,11 @@ CY:
   world_region: EMEA
   un_locode: CY
   nationality: Cypriot
+  nationalities:
+    at: Zypriotisch
+    de: Zypriotisch
+    en: Cypriot
+    nl: Cyprisch
   eu_member: true
   eea_member: true
   vat_rates:

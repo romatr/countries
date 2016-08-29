@@ -25,6 +25,11 @@ SG:
   world_region: APAC
   un_locode: SG
   nationality: Singaporean
+  nationalities:
+    at: Singapurisch
+    de: Singapurisch
+    en: Singaporean
+    nl: Singaporees
   postal_code: true
   unofficial_names:
   - Singapore

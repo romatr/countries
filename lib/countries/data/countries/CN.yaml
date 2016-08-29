@@ -28,6 +28,11 @@ CN:
   world_region: APAC
   un_locode: CN
   nationality: Chinese
+  nationalities:
+    at: Chinese
+    de: Chinese
+    en: Chinese
+    nl: Chinees
   postal_code: true
   unofficial_names:
   - China

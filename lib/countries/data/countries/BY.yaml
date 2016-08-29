@@ -19,6 +19,11 @@ BY:
   world_region: EMEA
   un_locode: BY
   nationality: Belarusian
+  nationalities:
+    at: Weißrussisch
+    de: Weißrussisch
+    en: Belarusian
+    nl: Wit-Russisch
   postal_code: true
   unofficial_names:
   - Belarus

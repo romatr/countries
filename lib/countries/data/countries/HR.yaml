@@ -24,6 +24,11 @@ HR:
   world_region: EMEA
   un_locode: HR
   nationality: Croatian
+  nationalities:
+    at: Kroatisch
+    de: Kroatisch
+    en: Croatian
+    nl: Kroatisch
   eu_member: true
   eea_member: true
   vat_rates:

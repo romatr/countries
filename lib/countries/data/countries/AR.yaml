@@ -26,6 +26,10 @@ AR:
   world_region: AMER
   un_locode: AR
   nationality: Argentinean
+  nationalities:
+    at: Argentinisch
+    de: Argentinisch
+    en: Argentinean
   postal_code: true
   unofficial_names:
   - Argentina

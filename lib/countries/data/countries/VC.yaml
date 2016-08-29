@@ -19,6 +19,10 @@ VC:
   world_region: AMER
   un_locode: VC
   nationality: Saint Vincentian
+  nationalities:
+    at: Saint Vincentianisches
+    de: Saint Vincentianisches
+    en: Saint Vincentian
   postal_code: true
   unofficial_names:
   - Saint Vincent and the Grenadines

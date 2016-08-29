@@ -18,6 +18,11 @@ SS:
   subregion: Northern Africa
   world_region: EMEA
   nationality: South Sudanese
+  nationalities:
+    at: Südsudanesisch
+    de: Südsudanesisch
+    en: South Sudanese
+    nl: Zuid-Soedanees
   postal_code: true
   unofficial_names:
   - South Sudan

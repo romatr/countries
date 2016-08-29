@@ -25,6 +25,11 @@ IT:
   world_region: EMEA
   un_locode: IT
   nationality: Italian
+  nationalities:
+    at: Italienisch
+    de: Italienisch
+    en: Italian
+    nl: Italiaans
   eu_member: true
   eea_member: true
   vat_rates:

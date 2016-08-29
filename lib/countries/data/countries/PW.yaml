@@ -19,6 +19,10 @@ PW:
   world_region: APAC
   un_locode: PW
   nationality: Palauan
+  nationalities:
+    at: Palauanisch
+    de: Palauanisch
+    en: Palauan
   postal_code: true
   unofficial_names:
   - Palau

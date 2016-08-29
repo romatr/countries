@@ -19,6 +19,10 @@ BN:
   world_region: APAC
   un_locode: BN
   nationality: Bruneian
+  nationalities:
+    at: Bruneiisch
+    de: Bruneiisch
+    en: Bruneian
   postal_code: true
   unofficial_names:
   - Brunei

@@ -17,6 +17,10 @@ GG:
   world_region: EMEA
   un_locode: 
   nationality: Channel Islander
+  nationalities:
+    at: Kanal-Insulanisch
+    de: Kanal-Insulanisch
+    en: Channel Islander
   postal_code: true
   unofficial_names:
   - Guernsey and Alderney

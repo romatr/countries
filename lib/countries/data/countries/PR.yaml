@@ -19,6 +19,10 @@ PR:
   world_region: AMER
   un_locode: PR
   nationality: Puerto Rican
+  nationalities:
+    at: Puerto Ricaner
+    de: Puerto Ricaner
+    en: Puerto Rican
   postal_code: true
   unofficial_names:
   - Puerto Rico

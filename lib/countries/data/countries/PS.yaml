@@ -20,6 +20,11 @@ PS:
   world_region: EMEA
   un_locode: 
   nationality: Palestinian
+  nationalities:
+    at: Palästinenser
+    de: Palästinenser
+    en: Palestinian
+    nl: Palestijns
   postal_code: true
   unofficial_names:
   - Palestine

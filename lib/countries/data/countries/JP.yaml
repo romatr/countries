@@ -25,6 +25,11 @@ JP:
   world_region: APAC
   un_locode: JP
   nationality: Japanese
+  nationalities:
+    at: Japanisch
+    de: Japanisch
+    en: Japanese
+    nl: Japans
   postal_code: true
   unofficial_names:
   - Japan

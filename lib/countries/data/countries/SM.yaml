@@ -22,6 +22,10 @@ SM:
   world_region: EMEA
   un_locode: SM
   nationality: Sammarinese
+  nationalities:
+    at: Sammarinesisch
+    de: Sammarinesisch
+    en: Sammarinese
   postal_code: true
   unofficial_names:
   - San Marino

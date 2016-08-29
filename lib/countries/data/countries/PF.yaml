@@ -19,6 +19,10 @@ PF:
   world_region: APAC
   un_locode: PF
   nationality: French Polynesian
+  nationalities:
+    at: Französisch-Polynesisch
+    de: Französisch-Polynesisch
+    en: French Polynesian
   postal_code: true
   unofficial_names:
   - French Polynesia

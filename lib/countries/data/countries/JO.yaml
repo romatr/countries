@@ -25,6 +25,11 @@ JO:
   world_region: EMEA
   un_locode: JO
   nationality: Jordanian
+  nationalities:
+    at: Jordanisch
+    de: Jordanisch
+    en: Jordanian
+    nl: Jordaans
   postal_code: true
   unofficial_names:
   - Jordan

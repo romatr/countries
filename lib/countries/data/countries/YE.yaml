@@ -26,6 +26,11 @@ YE:
   world_region: EMEA
   un_locode: YE
   nationality: Yemeni
+  nationalities:
+    at: Jemenitisch
+    de: Jemenitisch
+    en: Yemeni
+    nl: Jemenitisch
   postal_code: false
   unofficial_names:
   - Yemen

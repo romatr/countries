@@ -25,6 +25,11 @@ IN:
   world_region: APAC
   un_locode: IN
   nationality: Indian
+  nationalities:
+    at: Indisch
+    de: Indisch
+    en: Indian
+    nl: Indiaas
   postal_code: true
   unofficial_names:
   - India

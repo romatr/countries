@@ -26,6 +26,11 @@ HU:
   world_region: EMEA
   un_locode: HU
   nationality: Hungarian
+  nationalities:
+    at: Ungarisch
+    de: Ungarisch
+    en: Hungarian
+    nl: Hongaars
   eu_member: true
   eea_member: true
   vat_rates:

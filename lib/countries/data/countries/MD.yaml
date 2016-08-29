@@ -19,6 +19,11 @@ MD:
   world_region: EMEA
   un_locode: MD
   nationality: Moldovan
+  nationalities:
+    at: Moldawisch
+    de: Moldawisch
+    en: Moldovan
+    nl: Moldavisch
   postal_code: true
   unofficial_names:
   - Moldova

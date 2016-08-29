@@ -19,6 +19,10 @@ AG:
   world_region: AMER
   un_locode: AG
   nationality: Antiguan, Barbudan
+  nationalities:
+    at: Antiguanisch, Barbudanisch
+    de: Antiguanisch, Barbudanisch
+    en: Antiguan, Barbudan
   postal_code: false
   unofficial_names:
   - Antigua and Barbuda

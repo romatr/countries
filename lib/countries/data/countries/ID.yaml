@@ -28,6 +28,11 @@ ID:
   world_region: APAC
   un_locode: ID
   nationality: Indonesian
+  nationalities:
+    at: Indonesisch
+    de: Indonesisch
+    en: Indonesian
+    nl: Indonesisch
   postal_code: true
   unofficial_names:
   - Indonesia

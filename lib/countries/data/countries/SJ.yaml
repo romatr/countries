@@ -19,6 +19,10 @@ SJ:
   world_region: EMEA
   un_locode: SJ
   nationality: Norwegian
+  nationalities:
+    at: Norwegisch
+    de: Norwegisch
+    en: Norwegian
   postal_code: true
   unofficial_names:
   - Svalbard and Jan Mayen

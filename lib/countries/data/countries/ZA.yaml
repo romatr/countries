@@ -26,6 +26,11 @@ ZA:
   world_region: EMEA
   un_locode: ZA
   nationality: South African
+  nationalities:
+    at: Südafrikanisch
+    de: Südafrikanisch
+    en: South African
+    nl: Zuid-Afrikaans
   postal_code: false
   unofficial_names:
   - South Africa

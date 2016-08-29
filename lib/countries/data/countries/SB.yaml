@@ -19,6 +19,10 @@ SB:
   world_region: APAC
   un_locode: SB
   nationality: Solomon Islander
+  nationalities:
+    at: Solomon-Insulaner
+    de: Solomon-Insulaner
+    en: Solomon Islander
   postal_code: false
   unofficial_names:
   - Solomon Islands

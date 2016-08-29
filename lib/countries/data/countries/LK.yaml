@@ -19,6 +19,10 @@ LK:
   world_region: APAC
   un_locode: LK
   nationality: Sri Lankan
+  nationalities:
+    at: Sri-Lankisch
+    de: Sri-Lankisch
+    en: Sri Lankan
   postal_code: true
   unofficial_names:
   - Sri Lanka

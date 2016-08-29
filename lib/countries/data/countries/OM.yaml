@@ -25,6 +25,10 @@ OM:
   world_region: EMEA
   un_locode: OM
   nationality: Omani
+  nationalities:
+    at: Omanisch
+    de: Omanisch
+    en: Omani
   postal_code: true
   unofficial_names:
   - Oman

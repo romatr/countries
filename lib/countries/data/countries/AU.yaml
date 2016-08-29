@@ -24,6 +24,11 @@ AU:
   world_region: APAC
   un_locode: AU
   nationality: Australian
+  nationalities:
+    at: Australisch
+    de: Australisch
+    en: Australian
+    nl: Australisch
   postal_code: true
   unofficial_names:
   - Australia

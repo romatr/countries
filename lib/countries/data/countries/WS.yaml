@@ -20,6 +20,10 @@ WS:
   world_region: APAC
   un_locode: WS
   nationality: Samoan
+  nationalities:
+    at: Samoanisch
+    de: Samoanisch
+    en: Samoan
   postal_code: true
   unofficial_names:
   - Samoa

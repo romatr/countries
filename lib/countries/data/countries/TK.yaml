@@ -19,6 +19,10 @@ TK:
   world_region: APAC
   un_locode: TK
   nationality: Tokelauan
+  nationalities:
+    at: Tokelauisch
+    de: Tokelauisch
+    en: Tokelauan
   postal_code: false
   unofficial_names:
   - Tokelau

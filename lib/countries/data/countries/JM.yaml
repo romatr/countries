@@ -19,6 +19,11 @@ JM:
   world_region: AMER
   un_locode: JM
   nationality: Jamaican
+  nationalities:
+    at: Jamaikanisch
+    de: Jamaikanisch
+    en: Jamaican
+    nl: Jamaicaans
   postal_code: false
   unofficial_names:
   - Jamaica

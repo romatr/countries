@@ -19,6 +19,10 @@ BZ:
   world_region: AMER
   un_locode: BZ
   nationality: Belizean
+  nationalities:
+    at: Belizenisch
+    de: Belizenisch
+    en: Belizean
   postal_code: false
   unofficial_names:
   - Belize

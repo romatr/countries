@@ -19,6 +19,10 @@ TL:
   world_region: APAC
   un_locode: 
   nationality: East Timorese
+  nationalities:
+    at: Timor-Lestisch
+    de: Timor-Lestisch
+    en: East Timorese
   postal_code: false
   unofficial_names:
   - East Timor

@@ -19,6 +19,11 @@ MW:
   world_region: EMEA
   un_locode: MW
   nationality: Malawian
+  nationalities:
+    at: Malawisch
+    de: Malawisch
+    en: Malawian
+    nl: Malawisch
   postal_code: false
   unofficial_names:
   - Malawi

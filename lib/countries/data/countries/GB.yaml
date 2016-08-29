@@ -27,6 +27,11 @@ GB:
   world_region: EMEA
   un_locode: GB
   nationality: British
+  nationalities:
+    at: Britisch
+    de: Britisch
+    en: British
+    nl: Brits
   eu_member: true
   eea_member: true
   vat_rates:

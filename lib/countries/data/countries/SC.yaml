@@ -19,6 +19,10 @@ SC:
   world_region: EMEA
   un_locode: SC
   nationality: Seychellois
+  nationalities:
+    at: Seychellisch
+    de: Seychellisch
+    en: Seychellois
   postal_code: false
   unofficial_names:
   - Seychelles

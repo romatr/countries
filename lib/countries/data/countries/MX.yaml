@@ -26,6 +26,11 @@ MX:
   world_region: AMER
   un_locode: MX
   nationality: Mexican
+  nationalities:
+    at: Mexikanisch
+    de: Mexikanisch
+    en: Mexican
+    nl: Mexicaans
   postal_code: true
   unofficial_names:
   - Mexico

@@ -20,6 +20,11 @@ TH:
   world_region: APAC
   un_locode: TH
   nationality: Thai
+  nationalities:
+    at: Thailändisch
+    de: Thailändisch
+    en: Thai
+    nl: Thais
   postal_code: true
   unofficial_names:
   - Thailand

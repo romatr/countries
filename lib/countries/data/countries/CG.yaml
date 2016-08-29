@@ -19,6 +19,10 @@ CG:
   world_region: EMEA
   un_locode: CG
   nationality: Congolese
+  nationalities:
+    at: Kongolese
+    de: Kongolese
+    en: Congolese
   postal_code: false
   unofficial_names:
   - Congo

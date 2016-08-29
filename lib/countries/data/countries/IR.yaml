@@ -19,6 +19,11 @@ IR:
   world_region: EMEA
   un_locode: IR
   nationality: Iranian
+  nationalities:
+    at: Iranisch
+    de: Iranisch
+    en: Iranian
+    nl: Iraans
   postal_code: true
   unofficial_names:
   - Iran

@@ -17,6 +17,10 @@ IM:
   world_region: EMEA
   un_locode: 
   nationality: Manx
+  nationalities:
+    at: Manx
+    de: Manx
+    en: Manx
   postal_code: true
   unofficial_names:
   - Isle of Man

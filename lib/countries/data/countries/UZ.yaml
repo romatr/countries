@@ -19,6 +19,10 @@ UZ:
   world_region: EMEA
   un_locode: UZ
   nationality: Uzbekistani
+  nationalities:
+    at: Usbekisch
+    de: Usbekisch
+    en: Uzbekistani
   postal_code: true
   unofficial_names:
   - Uzbekistan

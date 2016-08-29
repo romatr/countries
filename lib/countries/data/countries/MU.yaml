@@ -19,6 +19,11 @@ MU:
   world_region: EMEA
   un_locode: MU
   nationality: Mauritian
+  nationalities:
+    at: Mauritianisch
+    de: Mauritianisch
+    en: Mauritian
+    nl: Mauritiaans
   postal_code: false
   unofficial_names:
   - Mauritius

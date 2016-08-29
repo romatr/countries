@@ -17,6 +17,10 @@ IO:
   world_region: APAC
   un_locode: IO
   nationality: Indian
+  nationalities:
+    at: Indisch
+    de: Indisch
+    en: Indian
   postal_code: true
   unofficial_names:
   - British Indian Ocean Territory

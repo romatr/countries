@@ -25,6 +25,11 @@ PL:
   world_region: EMEA
   un_locode: PL
   nationality: Polish
+  nationalities:
+    at: Polnisch
+    de: Polnisch
+    en: Polish
+    nl: Pools
   eu_member: true
   eea_member: true
   vat_rates:

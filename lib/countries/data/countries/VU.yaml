@@ -21,6 +21,10 @@ VU:
   world_region: APAC
   un_locode: VU
   nationality: Ni-Vanuatu
+  nationalities:
+    at: Ni-Vanuatuisch
+    de: Ni-Vanuatuisch
+    en: Ni-Vanuatu
   postal_code: false
   unofficial_names:
   - Vanuatu

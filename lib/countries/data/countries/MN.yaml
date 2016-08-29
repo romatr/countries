@@ -22,6 +22,11 @@ MN:
   world_region: APAC
   un_locode: MN
   nationality: Mongolian
+  nationalities:
+    at: Mongolisch
+    de: Mongolisch
+    en: Mongolian
+    nl: Mongools
   postal_code: true
   unofficial_names:
   - Mongolia

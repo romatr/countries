@@ -25,6 +25,11 @@ SA:
   world_region: EMEA
   un_locode: SA
   nationality: Saudi Arabian
+  nationalities:
+    at: Saudi-Arabisch
+    de: Saudi-Arabisch
+    en: Saudi Arabian
+    nl: Saudi-Arabisch
   postal_code: false
   unofficial_names:
   - Saudi Arabia

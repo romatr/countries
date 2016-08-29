@@ -17,6 +17,10 @@ AX:
   world_region: EMEA
   un_locode: 
   nationality: Swedish
+  nationalities:
+    at: Schwedisch
+    de: Schwedisch
+    en: Swedish
   postal_code: true
   unofficial_names:
   - "Åland Islands"

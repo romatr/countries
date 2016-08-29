@@ -24,6 +24,11 @@ SE:
   world_region: EMEA
   un_locode: SE
   nationality: Swedish
+  nationalities:
+    at: Schwedisch
+    de: Schwedisch
+    en: Swedish
+    nl: Zweeds
   eu_member: true
   eea_member: true
   vat_rates:

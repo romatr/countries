@@ -20,6 +20,11 @@ UY:
   world_region: AMER
   un_locode: UY
   nationality: Uruguayan
+  nationalities:
+    at: Uruguayisch
+    de: Uruguayisch
+    en: Uruguayan
+    nl: Uruguayaans
   postal_code: true
   unofficial_names:
   - Uruguay

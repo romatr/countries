@@ -19,6 +19,10 @@ SH:
   world_region: APAC
   un_locode: SH
   nationality: Saint Helenian
+  nationalities:
+    at: Saint-Helenisch
+    de: Saint-Helenisch
+    en: Saint Helenian
   postal_code: true
   unofficial_names:
   - Saint Helena

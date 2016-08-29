@@ -25,6 +25,11 @@ KW:
   world_region: EMEA
   un_locode: KW
   nationality: Kuwaiti
+  nationalities:
+    at: Kuwaitisch
+    de: Kuwaitisch
+    en: Kuwaiti
+    nl: Koeweits
   postal_code: true
   unofficial_names:
   - Kuwait

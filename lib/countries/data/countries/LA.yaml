@@ -19,6 +19,11 @@ LA:
   world_region: APAC
   un_locode: LA
   nationality: Laotian
+  nationalities:
+    at: Laotisch
+    de: Laotisch
+    en: Laotian
+    nl: Laotiaans
   postal_code: true
   unofficial_names:
   - Laos

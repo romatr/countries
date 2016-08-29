@@ -19,6 +19,10 @@ LC:
   world_region: AMER
   un_locode: LC
   nationality: Saint Lucian
+  nationalities:
+    at: Saint Lucianisch
+    de: Saint Lucianisch
+    en: Saint Lucian
   postal_code: false
   unofficial_names:
   - Saint Lucia

@@ -20,6 +20,11 @@ EE:
   world_region: EMEA
   un_locode: EE
   nationality: Estonian
+  nationalities:
+    at: Estnisch
+    de: Estnisch
+    en: Estonian
+    nl: Estlands
   eu_member: true
   eea_member: true
   vat_rates:

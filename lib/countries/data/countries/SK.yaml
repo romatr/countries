@@ -24,6 +24,11 @@ SK:
   world_region: EMEA
   un_locode: SK
   nationality: Slovak
+  nationalities:
+    at: Slowakisch
+    de: Slowakisch
+    en: Slovak
+    nl: Slowaaks
   eu_member: true
   eea_member: true
   vat_rates:

@@ -19,6 +19,10 @@ DJ:
   world_region: EMEA
   un_locode: DJ
   nationality: Djibouti
+  nationalities:
+    at: Djiboutisch
+    de: Djiboutisch
+    en: Djibouti
   postal_code: false
   unofficial_names:
   - Djibouti

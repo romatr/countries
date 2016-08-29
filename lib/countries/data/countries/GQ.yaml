@@ -19,6 +19,10 @@ GQ:
   world_region: EMEA
   un_locode: GQ
   nationality: Equatorial Guinean
+  nationalities:
+    at: Äquatorial-Guineaisch
+    de: Äquatorial-Guineaisch
+    en: Equatorial Guinean
   postal_code: false
   unofficial_names:
   - Equatorial Guinea

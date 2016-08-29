@@ -19,6 +19,11 @@ NR:
   world_region: APAC
   un_locode: NR
   nationality: Nauruan
+  nationalities:
+    at: Nauruanisch
+    de: Nauruanisch
+    en: Nauruan
+    nl: Nauruaans
   postal_code: false
   unofficial_names:
   - Nauru

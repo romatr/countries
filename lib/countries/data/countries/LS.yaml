@@ -20,6 +20,10 @@ LS:
   world_region: EMEA
   un_locode: LS
   nationality: Mosotho
+  nationalities:
+    at: Lesothisch
+    de: Lesothisch
+    en: Mosotho
   postal_code: true
   unofficial_names:
   - Lesotho

@@ -19,6 +19,11 @@ TN:
   world_region: EMEA
   un_locode: TN
   nationality: Tunisian
+  nationalities:
+    at: Tunesisch
+    de: Tunesisch
+    en: Tunisian
+    nl: Tunesisch
   postal_code: true
   unofficial_names:
   - Tunisia

@@ -19,6 +19,11 @@ HT:
   world_region: AMER
   un_locode: HT
   nationality: Haitian
+  nationalities:
+    at: Haitianisch
+    de: Haitianisch
+    en: Haitian
+    nl: Haïtiaans
   postal_code: true
   unofficial_names:
   - Haiti

@@ -19,6 +19,10 @@ KI:
   world_region: APAC
   un_locode: KI
   nationality: I-Kiribati
+  nationalities:
+    at: I-Kiribatisch
+    de: I-Kiribatisch
+    en: I-Kiribati
   postal_code: false
   unofficial_names:
   - Kiribati

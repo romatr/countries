@@ -19,6 +19,10 @@ SV:
   world_region: AMER
   un_locode: SV
   nationality: Salvadoran
+  nationalities:
+    at: Salvadorianisch
+    de: Salvadorianisch
+    en: Salvadoran
   postal_code: true
   unofficial_names:
   - El Salvador

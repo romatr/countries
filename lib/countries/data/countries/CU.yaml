@@ -19,6 +19,11 @@ CU:
   world_region: AMER
   un_locode: CU
   nationality: Cuban
+  nationalities:
+    at: Kubanisch
+    de: Kubanisch
+    en: Cuban
+    nl: Cubaans
   postal_code: true
   unofficial_names:
   - Cuba

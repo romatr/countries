@@ -19,6 +19,10 @@ PG:
   world_region: APAC
   un_locode: PG
   nationality: Papua New Guinean
+  nationalities:
+    at: Papua-Neuguineaisch
+    de: Papua-Neuguineaisch
+    en: Papua New Guinean
   postal_code: true
   unofficial_names:
   - Papua New Guinea

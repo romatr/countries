@@ -20,6 +20,10 @@ EC:
   world_region: AMER
   un_locode: EC
   nationality: Ecuadorean
+  nationalities:
+    at: Ecuadorianisch
+    de: Ecuadorianisch
+    en: Ecuadorean
   postal_code: true
   unofficial_names:
   - Ecuador

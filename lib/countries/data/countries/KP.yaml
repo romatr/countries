@@ -20,6 +20,11 @@ KP:
   world_region: APAC
   un_locode: KP
   nationality: North Korean
+  nationalities:
+    at: Nordkoreanisch
+    de: Nordkoreanisch
+    en: North Korean
+    nl: Koreans (Noord)
   postal_code: false
   unofficial_names:
   - Korea (North)

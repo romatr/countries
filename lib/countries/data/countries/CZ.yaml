@@ -24,6 +24,11 @@ CZ:
   world_region: EMEA
   un_locode: CZ
   nationality: Czech
+  nationalities:
+    at: Tschechisch
+    de: Tschechisch
+    en: Czech
+    nl: Tsjechisch
   eu_member: true
   eea_member: true
   vat_rates:

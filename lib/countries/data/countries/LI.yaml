@@ -19,6 +19,11 @@ LI:
   world_region: EMEA
   un_locode: LI
   nationality: Liechtensteiner
+  nationalities:
+    at: Liechtensteinisch
+    de: Liechtensteinisch
+    en: Liechtensteiner
+    nl: Liechtensteins
   eea_member: true
   postal_code: true
   unofficial_names:

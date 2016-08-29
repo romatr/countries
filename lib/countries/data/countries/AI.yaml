@@ -19,6 +19,10 @@ AI:
   world_region: AMER
   un_locode: AI
   nationality: Anguillian
+  nationalities:
+    at: Anguillianisch
+    de: Anguillianisch
+    en: Anguillian
   postal_code: true
   unofficial_names:
   - Anguilla

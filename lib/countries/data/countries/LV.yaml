@@ -19,6 +19,11 @@ LV:
   world_region: EMEA
   un_locode: LV
   nationality: Latvian
+  nationalities:
+    at: Lettisch
+    de: Lettisch
+    en: Latvian
+    nl: Lets
   eu_member: true
   eea_member: true
   vat_rates:

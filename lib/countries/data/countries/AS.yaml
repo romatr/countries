@@ -19,6 +19,10 @@ AS:
   world_region: APAC
   un_locode: AS
   nationality: American Samoan
+  nationalities:
+    at: Amerikanisch-Samoanisch
+    de: Amerikanisch-Samoanisch
+    en: American Samoan
   postal_code: true
   unofficial_names:
   - American Samoa

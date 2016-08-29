@@ -20,6 +20,11 @@ NP:
   world_region: APAC
   un_locode: NP
   nationality: Nepalese
+  nationalities:
+    at: Nepalesisch
+    de: Nepalesisch
+    en: Nepalese
+    nl: Nepalees
   postal_code: true
   unofficial_names:
   - Nepal

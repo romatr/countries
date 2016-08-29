@@ -19,6 +19,10 @@ MP:
   world_region: APAC
   un_locode: MP
   nationality: American
+  nationalities:
+    at: Amerikanisch
+    de: Amerikanisch
+    en: American
   postal_code: true
   unofficial_names:
   - Northern Mariana Islands

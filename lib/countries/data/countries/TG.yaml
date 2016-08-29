@@ -19,6 +19,11 @@ TG:
   world_region: EMEA
   un_locode: TG
   nationality: Togolese
+  nationalities:
+    at: Togolesisch
+    de: Togolesisch
+    en: Togolese
+    nl: Togolees
   postal_code: true
   unofficial_names:
   - Togo

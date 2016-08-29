@@ -19,6 +19,11 @@ AW:
   world_region: AMER
   un_locode: AW
   nationality: Aruban
+  nationalities:
+    at: Arubanisch
+    de: Arubanisch
+    en: Aruban
+    nl: Arubaans
   postal_code: false
   unofficial_names:
   - Aruba

@@ -19,6 +19,11 @@ LT:
   world_region: EMEA
   un_locode: LT
   nationality: Lithuanian
+  nationalities:
+    at: Litauisch
+    de: Litauisch
+    en: Lithuanian
+    nl: Litouws
   eu_member: true
   eea_member: true
   vat_rates:

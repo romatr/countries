@@ -21,6 +21,11 @@ NA:
   world_region: EMEA
   un_locode: NA
   nationality: Namibian
+  nationalities:
+    at: Namibianisch
+    de: Namibianisch
+    en: Namibian
+    nl: Namibisch
   postal_code: true
   unofficial_names:
   - Namibia

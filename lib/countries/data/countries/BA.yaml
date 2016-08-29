@@ -24,6 +24,10 @@ BA:
   world_region: EMEA
   un_locode: BA
   nationality: Bosnian, Herzegovinian
+  nationalities:
+    at: Bosnisch-Herzegowinisch
+    de: Bosnisch-Herzegowinisch
+    en: Bosnian, Herzegovinian
   postal_code: true
   unofficial_names:
   - Bosnia and Herzegovina

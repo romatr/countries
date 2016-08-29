@@ -24,6 +24,11 @@ IE:
   world_region: EMEA
   un_locode: IE
   nationality: Irish
+  nationalities:
+    at: Irisch
+    de: Irisch
+    en: Irish
+    nl: Iers
   eu_member: true
   eea_member: true
   vat_rates:

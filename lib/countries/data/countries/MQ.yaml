@@ -19,6 +19,10 @@ MQ:
   world_region: AMER
   un_locode: MQ
   nationality: French
+  nationalities:
+      at: Französisch
+      de: Französisch
+      en: French
   postal_code: true
   unofficial_names:
   - Martinique

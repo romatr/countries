@@ -20,6 +20,11 @@ NG:
   world_region: EMEA
   un_locode: NG
   nationality: Nigerian
+  nationalities:
+    at: Nigerianer
+    de: Nigerianer
+    en: Nigerian
+    nl: Nigeriaans
   postal_code: true
   unofficial_names:
   - Nigeria

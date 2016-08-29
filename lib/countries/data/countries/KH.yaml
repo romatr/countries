@@ -19,6 +19,11 @@ KH:
   world_region: APAC
   un_locode: KH
   nationality: Cambodian
+  nationalities:
+    at: Kambodschanisch
+    de: Kambodschanisch
+    en: Cambodian
+    nl: Cambodiaans
   postal_code: true
   unofficial_names:
   - Cambodia

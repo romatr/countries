@@ -19,6 +19,10 @@ NU:
   world_region: APAC
   un_locode: NU
   nationality: Niuean
+  nationalities:
+    at: Niueisch
+    de: Niueisch
+    en: Niuean
   postal_code: false
   unofficial_names:
   - Niue

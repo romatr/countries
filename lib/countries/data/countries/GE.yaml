@@ -19,6 +19,11 @@ GE:
   world_region: EMEA
   un_locode: GE
   nationality: Georgian
+  nationalities:
+    at: Georgisch
+    de: Georgisch
+    en: Georgian
+    nl: Georgisch
   postal_code: true
   unofficial_names:
   - Georgia

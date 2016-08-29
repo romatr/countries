@@ -19,6 +19,10 @@ CI:
   world_region: EMEA
   un_locode: CI
   nationality: Ivorian
+  nationalities:
+    at: Ivorer
+    de: Ivorer
+    en: Ivorian
   postal_code: false
   unofficial_names:
   - Côte D'Ivoire

@@ -18,6 +18,10 @@ PN:
   world_region: APAC
   un_locode: PN
   nationality: Pitcairn Islander
+  nationalities:
+    at: Pitcairn
+    de: Pitcairn
+    en: Pitcairn Islander
   postal_code: true
   unofficial_names:
   - Pitcairn

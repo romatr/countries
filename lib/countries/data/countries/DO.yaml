@@ -19,6 +19,10 @@ DO:
   world_region: AMER
   un_locode: DO
   nationality: Dominican
+  nationalities:
+    at: Dominikanisch
+    de: Dominikanisch
+    en: Dominican
   postal_code: true
   unofficial_names:
   - Dominican Republic

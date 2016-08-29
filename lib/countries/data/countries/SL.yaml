@@ -19,6 +19,10 @@ SL:
   world_region: EMEA
   un_locode: SL
   nationality: Sierra Leonean
+  nationalities:
+    at: Sierra-Leonisch
+    de: Sierra-Leonisch
+    en: Sierra Leonean
   postal_code: false
   unofficial_names:
   - Sierra Leone

@@ -19,6 +19,10 @@ KG:
   world_region: EMEA
   un_locode: KG
   nationality: Kirghiz
+  nationalities:
+    at: Kirgisisch
+    de: Kirgisisch
+    en: Kirghiz
   postal_code: true
   unofficial_names:
   - Kyrgyzstan

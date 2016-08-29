@@ -24,6 +24,11 @@ CA:
   world_region: AMER
   un_locode: CA
   nationality: Canadian
+  nationalities:
+    at: Kanadisch
+    de: Kanadisch
+    en: Canadian
+    nl: Canadees
   postal_code: true
   unofficial_names:
   - Canada

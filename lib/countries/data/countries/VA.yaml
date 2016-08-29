@@ -19,6 +19,10 @@ VA:
   world_region: EMEA
   un_locode: VA
   nationality: Italian
+  nationalities:
+    at: Italienisch
+    de: Italienisch
+    en: Italian
   postal_code: true
   unofficial_names:
   - Vatican City

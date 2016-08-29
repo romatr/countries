@@ -19,6 +19,10 @@ KM:
   world_region: EMEA
   un_locode: KM
   nationality: Comoran
+  nationalities:
+    at: Komoranisch
+    de: Komoranisch
+    en: Comoran
   postal_code: false
   unofficial_names:
   - Comoros

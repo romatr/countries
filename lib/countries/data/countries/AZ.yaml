@@ -20,6 +20,10 @@ AZ:
   world_region: EMEA
   un_locode: AZ
   nationality: Azerbaijani
+  nationalities:
+    at: Azerbaidjanisch
+    de: Azerbaidjanisch
+    en: Azerbaijani
   postal_code: true
   unofficial_names:
   - Azerbaijan

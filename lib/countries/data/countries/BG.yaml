@@ -26,6 +26,11 @@ BG:
   world_region: EMEA
   un_locode: BG
   nationality: Bulgarian
+  nationalities:
+    at: Bulgarisch
+    de: Bulgarisch
+    en: Bulgarian
+    nl: Bulgaars
   eu_member: true
   eea_member: true
   vat_rates:

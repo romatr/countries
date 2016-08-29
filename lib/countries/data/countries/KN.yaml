@@ -19,6 +19,10 @@ KN:
   world_region: AMER
   un_locode: KN
   nationality: Kittian and Nevisian
+  nationalities:
+    at: Kittianisch und Nevisianisch
+    de: Kittianisch und Nevisianisch
+    en: Kittian and Nevisian
   postal_code: false
   unofficial_names:
   - Saint Kitts and Nevis

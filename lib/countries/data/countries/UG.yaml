@@ -19,6 +19,11 @@ UG:
   world_region: EMEA
   un_locode: UG
   nationality: Ugandan
+  nationalities:
+    at: Ugandische
+    de: Ugandische
+    en: Ugandan
+    nl: Ugandees
   postal_code: false
   unofficial_names:
   - Uganda

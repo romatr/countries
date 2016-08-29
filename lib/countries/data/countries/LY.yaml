@@ -20,6 +20,11 @@ LY:
   world_region: EMEA
   un_locode: LY
   nationality: Libyan
+  nationalities:
+    at: Libysch
+    de: Libysch
+    en: Libyan
+    nl: Libisch
   postal_code: true
   unofficial_names:
   - Libya

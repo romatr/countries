@@ -20,6 +20,11 @@ PA:
   world_region: AMER
   un_locode: PA
   nationality: Panamanian
+  nationalities:
+    at: Panamanisch
+    de: Panamanisch
+    en: Panamanian
+    nl: Panamees
   postal_code: false
   unofficial_names:
   - Panama

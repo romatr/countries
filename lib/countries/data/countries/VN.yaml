@@ -22,6 +22,11 @@ VN:
   world_region: APAC
   un_locode: VN
   nationality: Vietnamese
+  nationalities:
+    at: Vietnamesisch
+    de: Vietnamesisch
+    en: Vietnamese
+    nl: Vietnamees
   postal_code: true
   unofficial_names:
   - Vietnam

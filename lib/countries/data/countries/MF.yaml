@@ -17,6 +17,10 @@ MF:
   world_region: AMER
   un_locode: 
   nationality: Saint Martin Islander
+  nationalities:
+    at: Saint-Martinisch
+    de: Saint-Martinisch
+    en: Saint Martin Islander
   postal_code: true
   unofficial_names:
   - Saint Martin

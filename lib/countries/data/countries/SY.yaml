@@ -25,6 +25,11 @@ SY:
   world_region: EMEA
   un_locode: SY
   nationality: Syrian
+  nationalities:
+    at: Syrisch
+    de: Syrisch
+    en: Syrian
+    nl: Syrisch
   postal_code: false
   unofficial_names:
   - Syria

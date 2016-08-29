@@ -19,6 +19,10 @@ MO:
   world_region: APAC
   un_locode: MO
   nationality: Chinese
+  nationalities:
+    at: Chinesisch
+    de: Chinesisch
+    en: Chinese
   postal_code: false
   unofficial_names:
   - Macao

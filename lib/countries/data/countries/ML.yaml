@@ -19,6 +19,11 @@ ML:
   world_region: EMEA
   un_locode: ML
   nationality: Malian
+  nationalities:
+    at: Malisch
+    de: Malisch
+    en: Malian
+    nl: Malinees
   postal_code: false
   unofficial_names:
   - Mali

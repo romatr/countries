@@ -24,6 +24,10 @@ BH:
   world_region: EMEA
   un_locode: BH
   nationality: Bahraini
+  nationalities:
+    at: Bahrainisch
+    de: Bahrainisch
+    en: Bahraini
   postal_code: true
   unofficial_names:
   - Bahrain

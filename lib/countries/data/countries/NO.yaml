@@ -24,6 +24,11 @@
   world_region: EMEA
   un_locode: false
   nationality: Norwegian
+  nationalites:
+    at: Norwegisch
+    de: Norwegisch
+    en: Norwegian
+    nl: Noors
   eea_member: true
   postal_code: true
   unofficial_names:

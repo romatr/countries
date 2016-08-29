@@ -24,6 +24,11 @@ LB:
   world_region: EMEA
   un_locode: LB
   nationality: Lebanese
+  nationalities:
+    at: Libanesisch
+    de: Libanesisch
+    en: Lebanese
+    nl: Libanees
   postal_code: true
   unofficial_names:
   - Lebanon

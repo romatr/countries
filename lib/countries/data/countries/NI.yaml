@@ -19,6 +19,11 @@ NI:
   world_region: AMER
   un_locode: NI
   nationality: Nicaraguan
+  nationalities:
+    at: Nicaraguanisch
+    de: Nicaraguanisch
+    en: Nicaraguan
+    nl: Nicaraguaans
   postal_code: true
   unofficial_names:
   - Nicaragua

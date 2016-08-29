@@ -20,6 +20,10 @@ CL:
   world_region: AMER
   un_locode: CL
   nationality: Chilean
+  nationalities:
+    at: Chilene
+    de: Chilene
+    en: Chilean
   postal_code: true
   unofficial_names:
   - Chile

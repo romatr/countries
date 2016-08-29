@@ -21,6 +21,11 @@ IQ:
   world_region: EMEA
   un_locode: IQ
   nationality: Iraqi
+  nationalities:
+    at: Irakisch
+    de: Irakisch
+    en: Iraqi
+    nl: Irakees
   postal_code: true
   unofficial_names:
   - Iraq

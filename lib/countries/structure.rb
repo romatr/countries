@@ -26,6 +26,7 @@ module ISO3166
     'national_number_lengths' => [],
     'national_prefix' => nil,
     'nationality' => nil,
+    'nationalities' => {},
     'number' => nil,
     'languages_official' => [],
     'languages_spoken' => [],

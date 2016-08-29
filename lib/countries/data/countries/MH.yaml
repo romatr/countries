@@ -19,6 +19,10 @@ MH:
   world_region: APAC
   un_locode: MH
   nationality: Marshallese
+  nationalities:
+    at: Marshallesisch
+    de: Marshallesisch
+    en: Marshallese
   postal_code: true
   unofficial_names:
   - Marshall Islands

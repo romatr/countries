@@ -24,6 +24,11 @@ GR:
   world_region: EMEA
   un_locode: GR
   nationality: Greek
+  nationalities:
+    at: Griechisch
+    de: Griechisch
+    en: Greek
+    nl: Grieks
   eu_member: true
   eea_member: true
   vat_rates:

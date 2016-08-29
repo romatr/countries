@@ -19,6 +19,10 @@ PY:
   world_region: AMER
   un_locode: PY
   nationality: Paraguayan
+  nationalities:
+    at: Paraguayanisch
+    de: Paraguayanisch
+    en: Paraguayan
   postal_code: true
   unofficial_names:
   - Paraguay

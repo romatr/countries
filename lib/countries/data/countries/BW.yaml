@@ -19,6 +19,10 @@ BW:
   world_region: EMEA
   un_locode: BW
   nationality: Motswana
+  nationalities:
+    at: Botwanisch
+    de: Botwanisch
+    en: Motswana
   postal_code: false
   unofficial_names:
   - Botswana

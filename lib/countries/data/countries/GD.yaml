@@ -19,6 +19,10 @@ GD:
   world_region: AMER
   un_locode: GD
   nationality: Grenadian
+  nationalities:
+    at: Grenadisch
+    de: Grenadisch
+    en: Grenadian
   postal_code: false
   unofficial_names:
   - Grenada

@@ -17,6 +17,10 @@ GS:
   world_region: AMER
   un_locode: GS
   nationality: South Georgia and the South Sandwich Islander
+  nationalities:
+    at: Britisch
+    de: Britisch
+    en: South Georgia and the South Sandwich Islander
   postal_code: true
   unofficial_names:
   - South Georgia

@@ -25,6 +25,11 @@ CH:
   world_region: EMEA
   un_locode: CH
   nationality: Swiss
+  nationalities:
+    at: Schweizer
+    de: Schweizer
+    en: Swiss
+    nl: Zwitsers
   eea_member: true
   vat_rates:
     standard: 8

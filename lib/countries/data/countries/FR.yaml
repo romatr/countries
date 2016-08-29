@@ -25,6 +25,11 @@ FR:
   world_region: EMEA
   un_locode: FR
   nationality: French
+  nationalities:
+    at: Französisch
+    de: Französisch
+    en: French
+    nl: Frans
   eu_member: true
   eea_member: true
   vat_rates:

@@ -19,6 +19,11 @@ SR:
   world_region: AMER
   un_locode: SR
   nationality: Surinamer
+  nationalities:
+    at: Surinamesisch
+    de: Surinamesisch
+    en: Surinamer
+    nl: Surinaams
   postal_code: false
   unofficial_names:
   - Suriname

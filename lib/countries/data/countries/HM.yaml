@@ -16,6 +16,10 @@ HM:
   subregion: ''
   un_locode: HM
   nationality: Heard and McDonald Islander
+  nationalities:
+    at: Heard and McDonald-Insulanisch
+    de: Heard and McDonald-Insulanisch
+    en: Heard and McDonald Islander
   postal_code: true
   world_region: APAC
   unofficial_names:

@@ -20,6 +20,11 @@ MY:
   world_region: APAC
   un_locode: MY
   nationality: Malaysian
+  nationalities:
+    at: Malaysianisch
+    de: Malaysianisch
+    en: Malaysian
+    nl: Maleisisch
   postal_code: true
   unofficial_names:
   - Malaysia

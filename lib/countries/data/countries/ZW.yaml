@@ -22,6 +22,11 @@ ZW:
   world_region: EMEA
   un_locode: ZW
   nationality: Zimbabwean
+  nationalities:
+    at: Simbabwisch
+    de: Simbabwisch
+    en: Zimbabwean
+    nl: Zimbabwaans
   postal_code: false
   unofficial_names:
   - Zimbabwe

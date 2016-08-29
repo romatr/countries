@@ -19,6 +19,10 @@ GW:
   world_region: EMEA
   un_locode: GW
   nationality: Guinea-Bissauan
+  nationalities:
+    at: Guinea-Bissauisch
+    de: Guinea-Bissauisch
+    en: Guinea-Bissauan
   postal_code: true
   unofficial_names:
   - Guinea-Bissau

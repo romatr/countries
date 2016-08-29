@@ -21,6 +21,10 @@ AL:
   world_region: EMEA
   un_locode: AL
   nationality: Albanian
+  nationalities:
+    at: Albanisch
+    de: Albanisch
+    en: Albanian
   postal_code: true
   unofficial_names:
   - Albania

@@ -26,6 +26,11 @@ NZ:
   world_region: APAC
   un_locode: NZ
   nationality: New Zealander
+  nationalities:
+    at: Neuseeländisch
+    de: Neuseeländisch
+    en: New Zealander
+    nl: Nieuw-Zeelands
   postal_code: true
   unofficial_names:
   - New Zealand

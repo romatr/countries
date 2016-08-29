@@ -20,6 +20,11 @@ RW:
   world_region: EMEA
   un_locode: RW
   nationality: Rwandan
+  nationalities:
+    at: Ruandische
+    de: Ruandische
+    en: Rwandan
+    nl: Rwandees
   postal_code: false
   unofficial_names:
   - Rwanda

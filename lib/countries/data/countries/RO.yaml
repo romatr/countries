@@ -24,6 +24,11 @@ RO:
   world_region: EMEA
   un_locode: RO
   nationality: Romanian
+  nationalities:
+    at: Rumänisch
+    de: Rumänisch
+    en: Romanian
+    nl: Roemeens
   eu_member: true
   eea_member: true
   vat_rates:

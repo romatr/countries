@@ -22,6 +22,11 @@ AD:
   world_region: EMEA
   un_locode: AD
   nationality: Andorran
+  nationalities:
+    at: Andorranisch
+    de: Andorranisch
+    en: Andorran
+    nl: Andorrees
   postal_code: true
   unofficial_names:
   - Andorre

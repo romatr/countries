@@ -24,6 +24,11 @@ US:
   world_region: AMER
   un_locode: US
   nationality: American
+  nationalities:
+    at: Amerikanisch
+    de: Amerikanisch
+    en: American
+    nl: Amerikaans (VS)
   postal_code: true
   unofficial_names:
   - United States of America

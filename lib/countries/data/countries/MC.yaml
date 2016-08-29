@@ -20,6 +20,10 @@ MC:
   world_region: EMEA
   un_locode: MC
   nationality: Monegasque
+  nationalities:
+    at: Monegassisch
+    de: Monegassisch
+    en: Monegasque
   postal_code: true
   unofficial_names:
   - Monaco

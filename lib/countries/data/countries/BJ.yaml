@@ -19,6 +19,10 @@ BJ:
   world_region: EMEA
   un_locode: BJ
   nationality: Beninese
+  nationalities:
+      at: Beninisch
+      de: Beninisch
+      en: Beninese
   postal_code: false
   unofficial_names:
   - Benin

@@ -19,6 +19,11 @@ TT:
   world_region: AMER
   un_locode: TT
   nationality: Trinidadian
+  nationalities:
+    at: Trinidadisch
+    de: Trinidadisch
+    en: Trinidadian
+    nl: Trinidadaans
   postal_code: false
   unofficial_names:
   - Trinidad and Tobago

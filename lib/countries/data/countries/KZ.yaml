@@ -19,6 +19,11 @@ KZ:
   world_region: EMEA
   un_locode: KZ
   nationality: Kazakhstani
+  nationalities:
+    at: Kasachisch
+    de: Kasachisch
+    en: Kazakhstani
+    nl: Kazaks
   postal_code: true
   unofficial_names:
   - Kazakhstan

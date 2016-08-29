@@ -19,6 +19,11 @@ MA:
   world_region: EMEA
   un_locode: MA
   nationality: Moroccan
+  nationalities:
+    at: Morokkanisch
+    de: Morokkanisch
+    en: Moroccan
+    nl: Marokkaans
   postal_code: true
   unofficial_names:
   - Morocco

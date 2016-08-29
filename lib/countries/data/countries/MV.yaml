@@ -19,6 +19,11 @@ MV:
   world_region: APAC
   un_locode: MV
   nationality: Maldivan
+  nationalities:
+    at: Maledivisch
+    de: Maledivisch
+    en: Maldivan
+    nl: Maledivisch
   postal_code: true
   unofficial_names:
   - Maldives

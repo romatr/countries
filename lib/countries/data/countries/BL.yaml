@@ -17,6 +17,10 @@ BL:
   world_region: APAC
   un_locode: 
   nationality: Saint Barthélemy Islander
+  nationalities:
+    at: Saint Barthélemy Isländer
+    de: Saint Barthélemy Isländer
+    en: Saint Barthélemy Islander
   postal_code: true
   unofficial_names:
   - Saint Barthélemy

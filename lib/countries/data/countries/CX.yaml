@@ -17,6 +17,10 @@ CX:
   world_region: APAC
   un_locode: CX
   nationality: Christmas Island
+  nationalities:
+    at: Weihnachtsinsel
+    de: Weihnachtsinsel
+    en: Christmas Island
   postal_code: true
   unofficial_names:
   - Christmas Island

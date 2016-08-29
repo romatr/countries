@@ -19,6 +19,10 @@ BF:
   world_region: EMEA
   un_locode: BF
   nationality: Burkinabe
+  nationalities:
+    at: Burkinisch
+    de: Burkinisch
+    en: Burkinabe
   postal_code: false
   unofficial_names:
   - Burkina Faso

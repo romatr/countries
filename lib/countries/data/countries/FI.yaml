@@ -24,6 +24,11 @@ FI:
   world_region: EMEA
   un_locode: FI
   nationality: Finnish
+  nationalities:
+    at: Finnisch
+    de: Finnisch
+    en: Finnish
+    nl: Fins
   eu_member: true
   eea_member: true
   vat_rates:

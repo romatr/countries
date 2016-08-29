@@ -20,6 +20,11 @@ MZ:
   world_region: EMEA
   un_locode: MZ
   nationality: Mozambican
+  nationalities:
+    at: Mosambikanisch
+    de: Mosambikanisch
+    en: Mozambican
+    nl: Mozambikaans
   postal_code: true
   unofficial_names:
   - Mozambique

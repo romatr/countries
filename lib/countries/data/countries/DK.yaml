@@ -25,6 +25,11 @@ DK:
   world_region: EMEA
   un_locode: DK
   nationality: Danish
+  nationalities:
+    at: Dänisch
+    de: Dänisch
+    en: Danish
+    nl: Deens
   eu_member: true
   eea_member: true
   vat_rates:

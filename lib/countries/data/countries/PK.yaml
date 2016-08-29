@@ -20,6 +20,11 @@ PK:
   world_region: APAC
   un_locode: PK
   nationality: Pakistani
+  nationalities:
+    at: Pakistanisch
+    de: Pakistanisch
+    en: Pakistani
+    nl: Pakistaans
   postal_code: true
   unofficial_names:
   - Pakistan

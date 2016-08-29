@@ -26,6 +26,11 @@ PH:
   world_region: APAC
   un_locode: PH
   nationality: Filipino
+  nationalities:
+    at: Philippinisch
+    de: Philippinisch
+    en: Filipino
+    nl: Filippijns
   postal_code: true
   unofficial_names:
   - Philippines

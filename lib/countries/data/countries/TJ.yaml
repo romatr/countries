@@ -20,6 +20,10 @@ TJ:
   world_region: EMEA
   un_locode: TJ
   nationality: Tadzhik
+  nationalities:
+    at: Tadschikisch
+    de: Tadschikisch
+    en: Tadzhik
   postal_code: true
   unofficial_names:
   - Tajikistan

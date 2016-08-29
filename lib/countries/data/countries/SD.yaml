@@ -19,6 +19,11 @@ SD:
   world_region: EMEA
   un_locode: SD
   nationality: Sudanese
+  nationalities:
+    at: Sudanesisch
+    de: Sudanesisch
+    en: Sudanese
+    nl: Soedanees
   postal_code: true
   unofficial_names:
   - Sudan

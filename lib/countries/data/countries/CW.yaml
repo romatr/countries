@@ -19,6 +19,11 @@ CW:
   world_region: AMER
   un_locode: CW
   nationality: Dutch
+  nationalities:
+    at: Niederländisch
+    de: Niederländisch
+    en: Dutch
+    nl: Nederlands
   postal_code: true
   unofficial_names:
   - Curaçao

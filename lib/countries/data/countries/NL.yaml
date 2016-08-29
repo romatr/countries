@@ -24,6 +24,11 @@ NL:
   world_region: EMEA
   un_locode: NL
   nationality: Dutch
+  nationalities:
+    at: Niederländisch
+    de: Niederländisch
+    en: Dutch
+    nl: Nederlands
   eu_member: true
   eea_member: true
   vat_rates:

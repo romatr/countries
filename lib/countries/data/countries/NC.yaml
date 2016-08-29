@@ -19,6 +19,10 @@ NC:
   world_region: APAC
   un_locode: NC
   nationality: New Caledonian
+  nationalities:
+    at: Neukaledonisch
+    de: Neukaledonisch
+    en: New Caledonian
   postal_code: true
   unofficial_names:
   - New Caledonia

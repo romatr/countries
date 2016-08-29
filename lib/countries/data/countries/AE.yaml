@@ -26,6 +26,10 @@ AE:
   world_region: EMEA
   un_locode: AE
   nationality: Emirian
+  nationalities:
+    at: Emiratisch
+    de: Emiratisch
+    en: Emirian
   postal_code: false
   unofficial_names:
   - United Arab Emirates

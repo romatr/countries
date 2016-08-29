@@ -19,6 +19,10 @@ PM:
   world_region: AMER
   un_locode: PM
   nationality: French
+  nationalities:
+    at: Französisch
+    de: Französisch
+    en: French
   postal_code: true
   unofficial_names:
   - Saint Pierre and Miquelon
